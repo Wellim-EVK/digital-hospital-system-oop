@@ -10,8 +10,8 @@ to demonstrate Object-Oriented Programming concepts such as:
 - Singleton Design Pattern
 
 ## Files
-- digital_hospital_system.ipynb → Notebook version (optional)
+digital_hospital_system.ipynb
 
 ## How to Run
 ```bash
-python digital_hospital_system.py
+digital_hospital_system.ipynb
