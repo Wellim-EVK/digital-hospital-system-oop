@@ -13,5 +13,6 @@ to demonstrate Object-Oriented Programming concepts such as:
 digital_hospital_system.ipynb
 
 ## How to Run
-```bash
-digital_hospital_system.ipynb
+1. Open `digital_hospital_system.ipynb` using Jupyter Notebook
+2. Click **Run → Run All**
+3. View the output displayed below the code cells
